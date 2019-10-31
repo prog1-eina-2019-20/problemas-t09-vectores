@@ -58,8 +58,9 @@ int main() {
 
     leerDatos(datos, n);
     double media = calcularMedia(datos, n);
+    int superiores = contarSuperiores(datos, n, media);
     cout << "La media de los datos introducidos es " << media << " y " 
-         << contarSuperiores(datos, n, media) 
+         << superiores
          << " de ellos son superiores o iguales a la media." << endl;
          
     return 0;
