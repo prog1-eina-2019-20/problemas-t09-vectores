@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="problemas-t09-vectores" Database="" Version="10.0.0">
   <Project Name="02-inversion-secuencia" Path="inversion-secuencia/inversion-secuencia.project" Active="No"/>
-  <Project Name="01a-superiores-media" Path="superiores-media/superiores-media.project" Active="Yes"/>
-  <Project Name="01b-superiores-media-estandar" Path="superiores-media-estandar/superiores-media-estandar.project" Active="No"/>
+  <Project Name="01a-superiores-media" Path="superiores-media/superiores-media.project" Active="No"/>
+  <Project Name="01b-superiores-media-estandar" Path="superiores-media-estandar/superiores-media-estandar.project" Active="Yes"/>
   <Project Name="03-10-resto-problemas" Path="resto-problemas/resto-problemas.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
